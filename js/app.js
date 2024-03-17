@@ -1,0 +1,1 @@
+(()=>{"use strict";new Promise((function(A){var e=new Image;e.src="data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA",e.onload=e.onerror=function(){A(2===e.height)}})).then((function(A){var e=A?"webp":"no-webp";document.body.classList.add(e)}))})();
